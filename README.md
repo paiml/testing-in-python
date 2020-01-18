@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/paiml/testing-in-python.svg?style=svg)](https://circleci.com/gh/paiml/testing-in-python)
 # Testing in Python Examples
 
 This repository contains all the examples used for develop sections of the Testing In Python, a book written by [Noah Gift](https://noahgift.com/) and [Alfredo Deza](https://www.alfredodeza.com/).
