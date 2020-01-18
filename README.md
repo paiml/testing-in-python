@@ -12,4 +12,5 @@ MIT
 
 ## Buy the Book
 
-This book is set to be released in 2020.
+![Python in Testing](https://d2sofvawe08yqg.cloudfront.net/testinginpython/hero2x?1579007318)
+This book is set to be released in 2020.  You can [purchase an early release here](https://leanpub.com/testinginpython).
