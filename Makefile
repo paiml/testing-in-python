@@ -11,6 +11,6 @@ test:
 	#python -m pytest --nbval notebook.ipynb
 
 lint:
-	pylint --disable=R,C projects/chapter4/*.py
+	pylint --disable=R,C chapter4/*.py
 
 all: install lint test
